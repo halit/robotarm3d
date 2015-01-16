@@ -1,6 +1,6 @@
 # Robot Arm 3D with Modern OpenGL
 
-Classical robot arm implementation with OpenGL for computer graphic course project. 
+Classical robot arm implementation with modern OpenGL for computer graphics course project. 
 
 # Requirements
 
